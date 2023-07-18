@@ -3272,7 +3272,7 @@ img.tp-caption {
 /* Bread Crumb */
 /*------------------------------------------------------------------*/
 .breadcrumb {
-    background-color: #f4f4f4;
+    background-color:#df9f9fdb;
     padding: 40px 0;
     background-image: url("../img/breadcrumb-bg.png");
     background-position: center top;
