@@ -218,6 +218,7 @@ img {
         z-index: -1;
         display: block;
     }
+    
 
     .overlay-black:before {
         background-color: rgba(0, 0, 0, 0.85);
@@ -232,7 +233,7 @@ img {
     }
 
     .overlay-black40:before {
-        background-color: rgba(0, 0, 0, 0.4);
+        background-color: rgb(243 232 236 / 57%);
     }
 
     .overlay-black60:before {
@@ -801,6 +802,7 @@ form label.error {
 .section-padding {
     padding-top: 80px;
     padding-bottom: 80px;
+   
 }
 
 .section-padding-t {
@@ -3166,7 +3168,7 @@ img.tp-caption {
             font-size: 22px;
             font-weight: 600;
             padding: 0 10px;
-            color: #fff;
+            color: #000;
         }
 
             .social-icon li a:hover {
