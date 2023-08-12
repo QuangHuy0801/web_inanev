@@ -507,7 +507,9 @@ p {
     padding: 11px 30px !important;
     display: inline-block;
 }
-
+b{
+    color: #000;
+}
 .btn-sm {
     padding: 13px 35px !important;
     display: inline-block;
